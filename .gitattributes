@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Build directory
+build/
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Backup files
+*.bak
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
